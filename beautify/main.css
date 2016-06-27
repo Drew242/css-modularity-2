@@ -15,3 +15,17 @@
   vertical-align: top;
   padding: 20px;
 }
+
+.item-vert {
+  display: block;
+  padding: 10px;
+}
+
+.html-vert {
+  display: block;
+  padding: 10px;
+}
+
+.block {
+  display: inline;
+}
