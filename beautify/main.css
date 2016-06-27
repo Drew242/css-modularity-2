@@ -1,1 +1,17 @@
 /* ADD YOUR STYLES HERE */
+.div-centered {
+  text-align: center;
+  position: relative;
+}
+
+.item-centered {
+  margin: auto;
+  padding: 20px;
+}
+
+.html-centered {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+}
