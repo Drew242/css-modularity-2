@@ -118,5 +118,55 @@
 }
 
 .pagination li a:hover:not(.active) {
-  background-color: #ddd; 
+  background-color: #ddd;
+}
+
+.img-float {
+  margin-right: 20px;
+}
+
+.comment-line {
+  display: inline-block;
+  padding-bottom: 20px;
+}
+
+.gravatar {
+  float: left;
+}
+
+.message {
+  display: inline-block;
+}
+
+.navbar-tabs {
+  background-color: black;
+  width: 100%;
+}
+
+.tab-inline {
+  display: inline-block;
+}
+
+.tab-pretty:hover {
+  background-color: red;
+  color: black;
+}
+
+.tab-pretty {
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 200%;
+  color: white;
+  display: inline-block;
+  padding-right: 30px;
+  padding-left: 10px;
+}
+
+.num {
+  display: none;
+}
+
+.content-box {
+  padding: 30px;
+  border: 1px solid black;
 }
